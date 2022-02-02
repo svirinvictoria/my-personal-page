@@ -1,2 +1,3 @@
-# my-personal-page
-Page for the introducing
+# My personal page
+
+Page for the introducing myself
